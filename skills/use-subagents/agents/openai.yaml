@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Subagents"
+  short_description: "Scope, hand off, and verify subagent work"
+  default_prompt: "Use $use-subagents to decide whether to delegate, scope bounded work, and verify worker results."

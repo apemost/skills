@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Manager"
+  short_description: "Track tasks and validate execution plans"
+  default_prompt: "Use $task-manager to create, continue, or update the task and validate any implementation decomposition before execution."

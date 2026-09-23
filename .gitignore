@@ -1,0 +1,20 @@
+# Folder view configuration files
+.DS_Store
+
+# Thumbnail cache files
+Thumbs.db
+
+# Local files
+.local/
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
+
+# Environments
+.envrc
+.venv/
+
+# Dependency directories
+node_modules/
