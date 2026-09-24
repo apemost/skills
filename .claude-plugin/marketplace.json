@@ -1,0 +1,13 @@
+{
+  "name": "apemost",
+  "description": "Andrew's agent skills",
+  "owner": {
+    "name": "Andrew Lyu"
+  },
+  "plugins": [
+    {
+      "name": "apemost-skills",
+      "source": "./"
+    }
+  ]
+}

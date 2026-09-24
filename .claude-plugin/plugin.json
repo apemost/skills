@@ -1,0 +1,10 @@
+{
+  "name": "apemost-skills",
+  "description": "Andrew's agent skills",
+  "version": "0.1.0",
+  "author": {
+    "name": "Andrew Lyu"
+  },
+  "repository": "https://github.com/apemost/skills",
+  "license": "MIT"
+}

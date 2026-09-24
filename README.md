@@ -1,10 +1,8 @@
 # Skills
 
-Skills for coding agents.
+Andrew's agent skills.
 
 ## Install
-
-Install skills:
 
 ```sh
 npx skills add apemost/skills
